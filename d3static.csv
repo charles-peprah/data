@@ -1,0 +1,196 @@
+Country,Code,Year,Deaths
+Afghanistan,AFG,2018,9
+Albania,ALB,2018,5
+Algeria,DZA,2018,4
+American Samoa,ASM,2018,7
+Andorra,AND,2018,8
+Angola,AGO,2018,12
+Antigua and Barbuda,ATG,2018,3
+Argentina,ARG,2018,11
+Armenia,ARM,2018,8
+Australia,AUS,2018,11
+Austria,AUT,2018,11
+Azerbaijan,AZE,2018,4
+Bahamas,BHS,2018,3
+Bahrain,BHR,2018,4
+Bangladesh,BGD,2018,6
+Barbados,BRB,2018,4
+Belarus,BLR,2018,19
+Belgium,BEL,2018,14
+Belize,BLZ,2018,8
+Benin,BEN,2018,11
+Bermuda,BMU,2018,3
+Bhutan,BTN,2018,6
+Bolivia,BOL,2018,6
+Bosnia and Herzegovina,BIH,2018,7
+Botswana,BWA,2018,10
+Brazil,BRA,2018,6
+Brunei,BRN,2018,6
+Bulgaria,BGR,2018,9
+Burkina Faso,BFA,2018,13
+Burundi,BDI,2018,13
+Cambodia,KHM,2018,5
+Cameroon,CMR,2018,14
+Canada,CAN,2018,11
+Cape Verde,CPV,2018,17
+Central African Republic,CAF,2018,17
+Chad,TCD,2018,11
+Chile,CHL,2018,10
+China,CHN,2018,7
+Colombia,COL,2018,6
+Comoros,COM,2018,8
+Congo,COG,2018,14
+Costa Rica,CRI,2018,8
+Cote d'Ivoire,CIV,2018,14
+Croatia,HRV,2018,11
+Cuba,CUB,2018,11
+Cyprus,CYP,2018,5
+Czech Republic,CZE,2018,11
+Democratic Republic of Congo,COD,2018,12
+Denmark,DNK,2018,9
+Djibouti,DJI,2018,8
+Dominica,DMA,2018,5
+Dominican Republic,DOM,2018,9
+Ecuador,ECU,2018,9
+Egypt,EGY,2018,5
+El Salvador,SLV,2018,10
+Equatorial Guinea,GNQ,2018,9
+Eritrea,ERI,2018,16
+Estonia,EST,2018,13
+Ethiopia,ETH,2018,10
+Fiji,FJI,2018,10
+Finland,FIN,2018,13
+France,FRA,2018,12
+Gabon,GAB,2018,13
+Gambia,GMB,2018,10
+Georgia,GEO,2018,7
+Germany,DEU,2018,10
+Ghana,GHA,2018,10
+Greece,GRC,2018,4
+Greenland,GRL,2018,51
+Grenada,GRD,2018,5
+Guam,GUM,2018,21
+Guatemala,GTM,2018,6
+Guinea,GIN,2018,11
+Guinea-Bissau,GNB,2018,14
+Guyana,GUY,2018,26
+Haiti,HTI,2018,9
+Honduras,HND,2018,4
+Hungary,HUN,2018,14
+Iceland,ISL,2018,10
+India,IND,2018,16
+Indonesia,IDN,2018,3
+Iran,IRN,2018,5
+Iraq,IRQ,2018,4
+Ireland,IRL,2018,8
+Israel,ISR,2018,6
+Italy,ITA,2018,5
+Jamaica,JAM,2018,4
+Japan,JPN,2018,16
+Jordan,JOR,2018,3
+Kazakhstan,KAZ,2018,23
+Kenya,KEN,2018,11
+Kiribati,KIR,2018,26
+Kuwait,KWT,2018,2
+Kyrgyzstan,KGZ,2018,10
+Laos,LAO,2018,8
+Latvia,LVA,2018,17
+Lebanon,LBN,2018,5
+Lesotho,LSO,2018,32
+Liberia,LBR,2018,13
+Libya,LBY,2018,8
+Lithuania,LTU,2018,28
+Luxembourg,LUX,2018,9
+Macedonia,MKD,2018,7
+Madagascar,MDG,2018,11
+Malawi,MWI,2018,12
+Malaysia,MYS,2018,8
+Maldives,MDV,2018,3
+Mali,MLI,2018,7
+Malta,MLT,2018,5
+Marshall Islands,MHL,2018,22
+Mauritania,MRT,2018,7
+Mauritius,MUS,2018,8
+Mexico,MEX,2018,6
+Micronesia (country),FSM,2018,17
+Moldova,MDA,2018,14
+Mongolia,MNG,2018,15
+Montenegro,MNE,2018,9
+Morocco,MAR,2018,7
+Mozambique,MOZ,2018,17
+Myanmar,MMR,2018,5
+Namibia,NAM,2018,12
+Nepal,NPL,2018,8
+Netherlands,NLD,2018,9
+New Zealand,NZL,2018,11
+Nicaragua,NIC,2018,6
+Niger,NER,2018,8
+Nigeria,NGA,2018,8
+North Korea,PRK,2018,11
+Northern Mariana Islands,MNP,2018,12
+Norway,NOR,2018,9
+Oman,OMN,2018,3
+Pakistan,PAK,2018,4
+Palestine,PSE,2018,4
+Panama,PAN,2018,5
+Papua New Guinea,PNG,2018,23
+Paraguay,PRY,2018,6
+Peru,PER,2018,3
+Philippines,PHL,2018,6
+Poland,POL,2018,14
+Portugal,PRT,2018,8
+Puerto Rico,PRI,2018,6
+Qatar,QAT,2018,5
+Romania,ROU,2018,9
+Russia,RUS,2018,25
+Rwanda,RWA,2018,11
+Saint Lucia,LCA,2018,7
+Saint Vincent and the Grenadines,VCT,2018,7
+Samoa,WSM,2018,10
+Sao Tome and Principe,STP,2018,4
+Saudi Arabia,SAU,2018,3
+Senegal,SEN,2018,13
+Serbia,SRB,2018,13
+Seychelles,SYC,2018,8
+Sierra Leone,SLE,2018,10
+Singapore,SGP,2018,7
+Slovakia,SVK,2018,9
+Slovenia,SVN,2018,14
+Solomon Islands,SLB,2018,16
+Somalia,SOM,2018,10
+South Africa,ZAF,2018,11
+South Korea,KOR,2018,21
+South Sudan,SSD,2018,12
+Spain,ESP,2018,6
+Sri Lanka,LKA,2018,20
+Sudan,SDN,2018,5
+Suriname,SUR,2018,25
+Swaziland,SWZ,2018,22
+Sweden,SWE,2018,11
+Switzerland,CHE,2018,9
+Syria,SYR,2018,3
+Taiwan,TWN,2018,14
+Tajikistan,TJK,2018,6
+Tanzania,TZA,2018,9
+Thailand,THA,2018,10
+Timor,TLS,2018,7
+Togo,TGO,2018,12
+Tonga,TON,2018,6
+Trinidad and Tobago,TTO,2018,10
+Tunisia,TUN,2018,3
+Turkey,TUR,2018,3
+Turkmenistan,TKM,2018,9
+Uganda,UGA,2018,12
+Ukraine,UKR,2018,26
+United Arab Emirates,ARE,2018,5
+United Kingdom,GBR,2018,7
+United States,USA,2018,13
+United States Virgin Islands,VIR,2018,6
+Uruguay,URY,2018,17
+Uzbekistan,UZB,2018,9
+Vanuatu,VUT,2018,18
+Venezuela,VEN,2018,9
+Vietnam,VNM,2018,7
+Yemen,YEM,2018,6
+Zambia,ZMB,2018,13
+Zimbabwe,ZWE,2018,26
